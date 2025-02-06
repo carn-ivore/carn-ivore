@@ -1,3 +1,1 @@
-This is supposed to show up on my profile.
-I'm confused with "if you created a new branch for your file, open and merge a pull request on your branch"
-That's step 4. from the Finish page of the Introduction to GitHub course
+I do a lot of the same things every day and it's just a lot of clicking and window switching that I'd much rather delegate to some code.  My repositories are various projects for automating my tasks at work.
